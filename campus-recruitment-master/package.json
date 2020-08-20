@@ -21,7 +21,7 @@
   "homepage": "https://github.com/umairx97/campus-recruitment#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cloudinary": "^1.14.0",
     "cookie-parser": "^1.4.4",
